@@ -18,3 +18,34 @@
  - É essencial que todos profissionais da Compputação tenham pelo menos conhecimentos básicos de Arquitetura de Computadores.
 - Saber como o computador funciona nos permitirá entender sua capacidade (e incapacidade) de resolver problemas, sobre como progamá-los da melhor forma possível, como deixar o computador e os dados contidos neles mais seguros, como ganhar desempenho e o que faz ele ficar tão lento.
 - E necessário aprender quais são os componentes de um computador, como eles funcionam e como eles trabalham em conjunto formando um sistema.
+
+
+
+# Sistemas de numeração 
+
+1. Sistemas de Numeração
+2. Conversões de base decimal 
+3. Conversões de base binária, octal e hexa decimal
+4. resumo e dicas
+
+<hr> 
+
+### 1 - Sistemas de Numeração
+
+- Bits e Bytes
+- Sistemas numéricos
+
+
+
+Bit = 0 ou 1
+
+Byte = 8bits
+
+
+
+
+
+
+
+
+
